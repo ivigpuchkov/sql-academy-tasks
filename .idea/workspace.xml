@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfc63b13-0508-4b43-a31e-fd545f19a635" name="Changes" comment="Решение 33_средняя_цена_икры.sql: функция агрегирования, использование шаблона">
-      <change afterPath="$PROJECT_DIR$/44_максимальный_возраст_в_10_классах.sql" afterDir="false" />
+    <list default="true" id="bfc63b13-0508-4b43-a31e-fd545f19a635" name="Changes" comment="Решение 44_максимальный_возраст_в_10_классах.sql">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1782493034340</updated>
-      <workItem from="1782498015572" duration="676000" />
+      <workItem from="1782498015572" duration="2052000" />
     </task>
     <task id="LOCAL-00001" summary="Создание репозитория">
       <option name="closed" value="true" />
@@ -80,7 +80,23 @@
       <option name="project" value="LOCAL" />
       <updated>1782498560864</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Решение 44_максимальный_возраст_в_10_классах.sql">
+      <option name="closed" value="true" />
+      <created>1782498732439</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1782498732439</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Решение 44_максимальный_возраст_в_10_классах.sql">
+      <option name="closed" value="true" />
+      <created>1782498857586</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1782498857586</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +127,7 @@
     <MESSAGE value="Создание репозитория" />
     <MESSAGE value="Решение 24_кто_и_сколько_потратил_в_июне_2005_года.sql: джоин, фильтрация и функции дат" />
     <MESSAGE value="Решение 33_средняя_цена_икры.sql: функция агрегирования, использование шаблона" />
-    <option name="LAST_COMMIT_MESSAGE" value="Решение 33_средняя_цена_икры.sql: функция агрегирования, использование шаблона" />
+    <MESSAGE value="Решение 44_максимальный_возраст_в_10_классах.sql" />
+    <option name="LAST_COMMIT_MESSAGE" value="Решение 44_максимальный_возраст_в_10_классах.sql" />
   </component>
 </project>
