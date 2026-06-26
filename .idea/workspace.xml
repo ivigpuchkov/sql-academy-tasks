@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfc63b13-0508-4b43-a31e-fd545f19a635" name="Changes" comment="Создание репозитория">
-      <change afterPath="$PROJECT_DIR$/23_самый_дорогой_деликатес.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bfc63b13-0508-4b43-a31e-fd545f19a635" name="Changes" comment="Решение 24_кто_и_сколько_потратил_в_июне_2005_года.sql: джоин, фильтрация и функции дат" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,9 +13,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="3FgO1vwH2KBhA70AKoMdldJgQIp" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -29,13 +26,19 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "javascript.preferred.runtime.type.id": "node",
+    "last_opened_file_path": "C:/Задачи по программированию/sql-academy-tasks",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-a101402ee41c-968fe969f28a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.28238.29" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-WS-261.25134.101" />
       </set>
     </attachedChunks>
   </component>
@@ -46,6 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1782493034340</updated>
+      <workItem from="1782498015572" duration="361000" />
     </task>
     <task id="LOCAL-00001" summary="Создание репозитория">
       <option name="closed" value="true" />
@@ -55,8 +59,19 @@
       <option name="project" value="LOCAL" />
       <updated>1782496685762</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Решение 24_кто_и_сколько_потратил_в_июне_2005_года.sql: джоин, фильтрация и функции дат">
+      <option name="closed" value="true" />
+      <created>1782498342039</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1782498342039</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="OPEN_GENERIC_TABS">
@@ -81,6 +96,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Создание репозитория" />
-    <option name="LAST_COMMIT_MESSAGE" value="Создание репозитория" />
+    <MESSAGE value="Решение 24_кто_и_сколько_потратил_в_июне_2005_года.sql: джоин, фильтрация и функции дат" />
+    <option name="LAST_COMMIT_MESSAGE" value="Решение 24_кто_и_сколько_потратил_в_июне_2005_года.sql: джоин, фильтрация и функции дат" />
   </component>
 </project>
