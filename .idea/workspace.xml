@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfc63b13-0508-4b43-a31e-fd545f19a635" name="Changes" comment="решение 62_рейтинг_доменов_2го_уровня.sql: строковые функции">
-      <change afterPath="$PROJECT_DIR$/66_комнаты_со_всеми_удобствами.sql" afterDir="false" />
-    </list>
+    <list default="true" id="bfc63b13-0508-4b43-a31e-fd545f19a635" name="Changes" comment="решение 68_последний_арендатор_комнаты.sql: ранжирование" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1782493034340</updated>
       <workItem from="1782498015572" duration="4304000" />
-      <workItem from="1782579756041" duration="1900000" />
+      <workItem from="1782579756041" duration="2205000" />
     </task>
     <task id="LOCAL-00001" summary="Создание репозитория">
       <option name="closed" value="true" />
@@ -150,7 +148,31 @@
       <option name="project" value="LOCAL" />
       <updated>1782587209204</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="решение 66_комнаты_со_всеми_удобствами.sql: обработка NULL">
+      <option name="closed" value="true" />
+      <created>1782587351978</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1782587351978</updated>
+    </task>
+    <task id="LOCAL-00012" summary="решение 67_время_отлета_и_прилета.sql: форматирование дат">
+      <option name="closed" value="true" />
+      <created>1782587485474</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1782587485474</updated>
+    </task>
+    <task id="LOCAL-00013" summary="решение 68_последний_арендатор_комнаты.sql: ранжирование">
+      <option name="closed" value="true" />
+      <created>1782587604542</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1782587604542</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,6 +209,9 @@
     <MESSAGE value="Решение 51_добавить_товар_cheese.sql: добавление данных" />
     <MESSAGE value="решение 55_удалить_компании_с_наименьшим_числом_рейсов.sql: удаление данных" />
     <MESSAGE value="решение 62_рейтинг_доменов_2го_уровня.sql: строковые функции" />
-    <option name="LAST_COMMIT_MESSAGE" value="решение 62_рейтинг_доменов_2го_уровня.sql: строковые функции" />
+    <MESSAGE value="решение 66_комнаты_со_всеми_удобствами.sql: обработка NULL" />
+    <MESSAGE value="решение 67_время_отлета_и_прилета.sql: форматирование дат" />
+    <MESSAGE value="решение 68_последний_арендатор_комнаты.sql: ранжирование" />
+    <option name="LAST_COMMIT_MESSAGE" value="решение 68_последний_арендатор_комнаты.sql: ранжирование" />
   </component>
 </project>
