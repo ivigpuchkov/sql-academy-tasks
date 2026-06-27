@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfc63b13-0508-4b43-a31e-fd545f19a635" name="Changes" comment="Решение 49_процент_обучающихся_в_10_А_классе.sql: подзапросы">
-      <change afterPath="$PROJECT_DIR$/45_самые_используемые_кабинеты.sql" afterDir="false" />
+    <list default="true" id="bfc63b13-0508-4b43-a31e-fd545f19a635" name="Changes" comment="Решение 51_добавить_товар_cheese.sql: добавление данных">
+      <change afterPath="$PROJECT_DIR$/55_удалить_компании_с_наименьшим_числом_рейсов.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +16,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ivigpuchkov"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ivigpuchkov/sql-academy-tasks.git",
+    "accountId": "d6d0d8ce-de56-4bcb-b0cc-bbb87e76552d"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -26,20 +39,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "javascript.preferred.runtime.type.id": "node",
-    "last_opened_file_path": "C:/Задачи по программированию/sql-academy-tasks",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Задачи по программированию/sql-academy-tasks&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -54,7 +68,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1782493034340</updated>
-      <workItem from="1782498015572" duration="2354000" />
+      <workItem from="1782498015572" duration="4304000" />
+      <workItem from="1782579756041" duration="1559000" />
     </task>
     <task id="LOCAL-00001" summary="Создание репозитория">
       <option name="closed" value="true" />
@@ -104,7 +119,23 @@
       <option name="project" value="LOCAL" />
       <updated>1782501021565</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Решение 45_самые_используемые_кабинеты.sql">
+      <option name="closed" value="true" />
+      <created>1782501182485</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1782501182485</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Решение 51_добавить_товар_cheese.sql: добавление данных">
+      <option name="closed" value="true" />
+      <created>1782501379891</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1782501379891</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +168,8 @@
     <MESSAGE value="Решение 33_средняя_цена_икры.sql: функция агрегирования, использование шаблона" />
     <MESSAGE value="Решение 44_максимальный_возраст_в_10_классах.sql" />
     <MESSAGE value="Решение 49_процент_обучающихся_в_10_А_классе.sql: подзапросы" />
-    <option name="LAST_COMMIT_MESSAGE" value="Решение 49_процент_обучающихся_в_10_А_классе.sql: подзапросы" />
+    <MESSAGE value="Решение 45_самые_используемые_кабинеты.sql" />
+    <MESSAGE value="Решение 51_добавить_товар_cheese.sql: добавление данных" />
+    <option name="LAST_COMMIT_MESSAGE" value="Решение 51_добавить_товар_cheese.sql: добавление данных" />
   </component>
 </project>
