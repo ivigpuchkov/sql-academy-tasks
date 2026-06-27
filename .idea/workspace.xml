@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfc63b13-0508-4b43-a31e-fd545f19a635" name="Changes" comment="Решение 51_добавить_товар_cheese.sql: добавление данных">
-      <change afterPath="$PROJECT_DIR$/55_удалить_компании_с_наименьшим_числом_рейсов.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="bfc63b13-0508-4b43-a31e-fd545f19a635" name="Changes" comment="решение 62_рейтинг_доменов_2го_уровня.sql: строковые функции">
+      <change afterPath="$PROJECT_DIR$/66_комнаты_со_всеми_удобствами.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1782493034340</updated>
       <workItem from="1782498015572" duration="4304000" />
-      <workItem from="1782579756041" duration="1559000" />
+      <workItem from="1782579756041" duration="1900000" />
     </task>
     <task id="LOCAL-00001" summary="Создание репозитория">
       <option name="closed" value="true" />
@@ -135,7 +134,23 @@
       <option name="project" value="LOCAL" />
       <updated>1782501379891</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="решение 55_удалить_компании_с_наименьшим_числом_рейсов.sql: удаление данных">
+      <option name="closed" value="true" />
+      <created>1782587007763</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1782587007763</updated>
+    </task>
+    <task id="LOCAL-00010" summary="решение 62_рейтинг_доменов_2го_уровня.sql: строковые функции">
+      <option name="closed" value="true" />
+      <created>1782587209204</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1782587209204</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,6 +185,8 @@
     <MESSAGE value="Решение 49_процент_обучающихся_в_10_А_классе.sql: подзапросы" />
     <MESSAGE value="Решение 45_самые_используемые_кабинеты.sql" />
     <MESSAGE value="Решение 51_добавить_товар_cheese.sql: добавление данных" />
-    <option name="LAST_COMMIT_MESSAGE" value="Решение 51_добавить_товар_cheese.sql: добавление данных" />
+    <MESSAGE value="решение 55_удалить_компании_с_наименьшим_числом_рейсов.sql: удаление данных" />
+    <MESSAGE value="решение 62_рейтинг_доменов_2го_уровня.sql: строковые функции" />
+    <option name="LAST_COMMIT_MESSAGE" value="решение 62_рейтинг_доменов_2го_уровня.sql: строковые функции" />
   </component>
 </project>
